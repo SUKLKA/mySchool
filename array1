@@ -1,0 +1,5 @@
+var rumx = new Array[];
+var x = 5;
+
+for (var i=0; i<4; i++)
+rumx[0] += x;
